@@ -14,6 +14,3 @@ function store(uint256 _newNumber) public override{
     myFavoriteNumber = _newNumber + 5;
 }
 }
-
-
-// solved challenge @ https://sepolia.etherscan.io/tx/0xd4a2f8001ddbcced6d6d50a8383e7d1f3e14ae78bed3892fcd05ef87d924e510
